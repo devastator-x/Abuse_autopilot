@@ -34,7 +34,7 @@
   <h3 align="center">Daily malware distribution site</h3>
 
   <p align="center">
-    데일리 악성코드 유포지 자동 추출기
+    데일리 악성IP&URL 자동 추출기
     <br />
     <a href="https://github.com/saladball/Abuse_autopilot"><strong>Explore the docs »</strong></a>
     <br />
@@ -72,7 +72,7 @@
 
 ## About The Project
 
-일일 악성코드 유포지 확인을 위해 만들었습니다.
+일일 악성IP&URL 확인을 위해 만들었습니다.
 이 프로젝트는 A3Security 업무용으로 참고하기 위해 제작되었습니다.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -107,7 +107,7 @@ Abuse_autopilot_beta.zip을 다운받아 주세요.
 
 1. 중복체크.xlsx 파일이 있는곳에서 실행해주세요.
 2. Abuse_autopilot_beta.zip 압축 폴더 압축해제 후 Abuse_autopilot_beta.exe 파일 실행
-3. 현재 폴더에 {오늘 날짜}\_재정정보원.csv 파일 생성되어 있을겁니다.
+3. 현재 폴더에 {오늘 날짜}_악성IP&URL.xlsx 파일 생성되어 있을겁니다.
 4. 실행 후 추가된 모든 데이터(악성코드유포지, 악성 email, 추가된 날짜)는 <b>중복체크.xlsx</b> 에 자동으로 추가됩니다.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -126,7 +126,7 @@ MIT 라이선스에 따라 배포됩니다. 자세한 내용은 `LICENSE.txt`를
 
 An Hyukjin - [telegram](https://t.me/debu_man) - silverfast8@yahoo.com
 
-Project Link: [https://github.com/saladball/Abuse_autopilot](https://github.com/saladball/Abuse_autopilot)
+Project Link: [https://github.com/devastator-x/Abuse_autopilot](https://github.com/devastator-x/Abuse_autopilot)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
